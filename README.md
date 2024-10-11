@@ -11,8 +11,7 @@ Identifier les catégories de produits les plus et les moins performantes afin d
 - **PostgreSQL** : Pour les requêtes SQL et la gestion des données.
 - **Excel** : Pour la préparation, le nettoyage des données et la visualisation des données.
 - **Tableau** : Pour la visualisation des données et des résultats d'analyse..
-- **[Kaggle](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis/data?select=ecommerce_sales_analysis.csv)
-** : Collecter la base de donnée
+- **[Kaggle](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis/data?select=ecommerce_sales_analysis.csv)** : Collecter la base de donnée
 - **GitHub** : Gérer le projet.
 
 ## Dataset
