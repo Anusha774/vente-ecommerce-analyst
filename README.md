@@ -12,6 +12,7 @@ Identifier les catégories de produits les plus et les moins performantes afin d
 - **Excel** : Pour la préparation, le nettoyage des données et la visualisation des données.
 - **Tableau** : Pour la visualisation des données et des résultats d'analyse..
 - **Kaggle** : Collecter la base de donnée
+-   https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis/data?select=ecommerce_sales_analysis.csv
 - **GitHub** : Gérer le projet.
 
 ## Dataset
