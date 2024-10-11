@@ -25,14 +25,13 @@ Le dataset comprend des informations sur les produits, les ventes mensuelles, le
   - Analyse des ventes par catégorie et par mois.
 - **Visualisation** : Un graphique a été réalisés avec Tableau et disponible [ici](https://public.tableau.com/views/Comparaisondesavisetdesventesparcatgorie/Feuille1).
 
-## Résultats principaux et Recommandation
-- Mise en place des stratégies marketing pour toutes les catégories
+## Résultats
+- Les catégories les plus performantes : Toys, Books, Sport
+- Les catégories les moins performantes : Home & Kitchen, Clothing.
 
 ## Recommandations
-- Concentrer les efforts sur la mise en place des stratégies marketing dans les catégories **Toys**, **Books**, et **Sports** pendant les périodes de forte demande.
-- Augmenter la visibilité et les campagnes pour **Clothing** et **Home & Kitchen** lors des périodes de pic saisonnier.
-- Introduire des promotions et des actions ciblées pour **Health**, notamment autour des changements de saison et des tendances de santé.
-- Campagnes ciblées pour augmenter la visibilité des catégories sous-performantes, promotions pendant les périodes clés pour les catégories performantes.
+Des stratégies marketing spécifiques pour chaque catégorie ont été proposées pour améliorer les performances des produits.
+
 
 ## Fichiers
 - `ecommerce_analysis.sql` : Contient les requêtes SQL pour analyser les ventes.
