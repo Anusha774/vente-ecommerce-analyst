@@ -1,4 +1,4 @@
-
+-- Création de la table --
 
 CREATE TABLE sales_ecommerce (
   product_id INT PRIMARY KEY,
