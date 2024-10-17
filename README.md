@@ -1,7 +1,7 @@
 # Analyse des ventes e-commerce
 
 # Description
-Ce projet analyse les ventes d'un site e-commerce afin d'identifier les catégories de produits les plus et les moins performantes en termes de ventes et d'avis clients. L'objectif est de fournir des insights exploitables pour améliorer la performance commerciale.
+En tant que Web Analyst pour « EcomShop », spécialisée dans la vente en ligne, il est essentiel de comprendre quelles catégories se vendent le mieux et lesquelles nécessitent une amélioration. 
 
 ## Objectifs
 Identifier les catégories de produits les plus et les moins performantes afin de proposer des stratégies marketing pour améliorer les ventes.
