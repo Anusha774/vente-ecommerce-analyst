@@ -1,7 +1,7 @@
 # Analyse des ventes e-commerce
 
 # Description
-En tant que Web Analyst pour « EcomShop », spécialisée dans la vente en ligne, il est essentiel de comprendre quelles catégories se vendent le mieux et lesquelles nécessitent une amélioration. 
+En tant que Web Analyst pour « EcomShop », spécialisée dans la vente en ligne, il est essentiel de comprendre quelles catégories se vendent le mieux et lesquelles nécessitent une amélioration. Notre mission est de maximiser la satisfaction client et les revenus à travers des analyses basées sur les données.
 
 ## Objectifs
 Identifier les catégories de produits les plus et les moins performantes afin de proposer des stratégies marketing pour améliorer les ventes :
