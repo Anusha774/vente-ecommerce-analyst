@@ -34,4 +34,4 @@ Des stratégies marketing spécifiques pour chaque catégorie ont été proposé
 
 
 ## Fichiers
-- `ecommerce_analysis.sql` : Contient les requêtes SQL pour analyser les ventes.
+- [`ecommerce_analysis.sql`](ecommerce_analysis.sql) : Contient les requêtes SQL pour analyser les ventes.
